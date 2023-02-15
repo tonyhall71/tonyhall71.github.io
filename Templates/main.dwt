@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title> My personal profile </title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../styles.css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="container">
+  <nav>
+    <ul>
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../gallery.html">Gallery</a></li>
+      <li><a href="../contact.html">Contact</a></li>
+      <li><a href="../aboutme.html">About Me</a></li>
+		  <li><a href="../links.html">Links</a></li>
+    </ul>
+  </nav>
+  <header>
+    <h1><!-- TemplateBeginEditable name="Title" -->Page Title<!-- TemplateEndEditable --></h1>
+  </header>
+  
+  <section><!-- TemplateBeginEditable name="Content" -->
+
+	  <P>This is the content section</P>
+  <!-- TemplateEndEditable --></section>
+  <footer>
+    <p>&copy; Mr H 2021</p>
+  </footer>
+</div>
+</body>
+</html>
