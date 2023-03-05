@@ -2,6 +2,7 @@
 
 body{
     background-image: url("images/Elegant_Background-4.jpg");
+	background-attachment: fixed;
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 
 }
@@ -12,6 +13,7 @@ body{
 	min-width:300px;
 	background:#D5D48E;
 	margin:0 auto;
+	padding: 0;
 	border: 1px solid #234D8F;
 }
 
@@ -55,9 +57,10 @@ header {
 footer {
     clear:both;
 	position:relative;
+	bottom: 0;
 	background-color: #7A6B04;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-	bottom: 0px;
+	padding: 20 0;
 }
 
 
