@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Bootstrap 5 Example</title>
+<title>Mighty Hienas</title>
 <!-- TemplateEndEditable -->
 <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,12 +14,22 @@
 
 <body>
 
-<div class="container-fluid p-5 bg-warning text-white text-center"><!-- TemplateBeginEditable name="Header Section" -->
-  <h1>Mr H's Soccer Team&nbsp;</h1>
+<div class="container p-5 bg-warning text-white text-center"><!-- TemplateBeginEditable name="Header Section" -->
+  <img src="../images/hienas.png" width="303" height="174" alt="Hienas" style="float:right; "/>
+	<h1>Mighty Hienas</h1>
   <p>Resize this responsive page to see the effect!</p>
 <!-- TemplateEndEditable --></div>
-  
 <div class="container mt-5">
+	<nav>
+		<ul class="nav nav-tabs">
+		 <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+		 <li class="nav-item"><a class="nav-link" href="#">Link 1</a></li>
+		 <li class="nav-item"><a class="nav-link" href="#">Link 2</a></li>
+		 <li class="nav-item"><a class="nav-link" href="#">Link 3</a></li>			
+		</ul>
+		
+	</nav>
+
   <div class="row">
     <div class="col-sm-4"><!-- TemplateBeginEditable name="Col1" -->
       <h3>Column 1</h3>
