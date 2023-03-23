@@ -51,6 +51,7 @@ nav li a:hover {
 header {
     top: 0px;
     background-color: #7A6B04;
+	background-image: url("images/header-background.png");
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 
