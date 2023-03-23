@@ -17,15 +17,15 @@
 <div class="container p-5 bg-warning text-white text-center"><!-- TemplateBeginEditable name="Header Section" -->
   <img src="../images/hienas.png" width="303" height="174" alt="Hienas" style="float:right; "/>
 	<h1>Mighty Hienas</h1>
-  <p>Resize this responsive page to see the effect!</p>
+  <p>Join the pack, dominate the game with the Mighty Hienas!</p>
 <!-- TemplateEndEditable --></div>
 <div class="container mt-5">
 	<nav>
 		<ul class="nav nav-tabs">
 		 <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
-		 <li class="nav-item"><a class="nav-link" href="#">Link 1</a></li>
-		 <li class="nav-item"><a class="nav-link" href="#">Link 2</a></li>
-		 <li class="nav-item"><a class="nav-link" href="#">Link 3</a></li>			
+		 <li class="nav-item"><a class="nav-link" href="#">Team</a></li>
+		 <li class="nav-item"><a class="nav-link" href="#">Merchandise</a></li>
+		 <li class="nav-item"><a class="nav-link" href="#">Games</a></li>			
 		</ul>
 		
 	</nav>
